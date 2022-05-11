@@ -7,11 +7,22 @@ body {
   top: 0%;
   border-bottom: 4px solid gray;
   background-color: rgb(116, 189, 189);
+  font-size: larger;
+  color: brown;
 }
+
+#licoes_aprendidas , #licoes_a_aprender {
+  font-family: sans-serif;
+}
+
 
 #minha_foto {
   padding: 170px;
   padding-left: 60px;
+}
+
+.lado-esquerdo , .lado-direito {
+  line-height: 22px;
 }
 
 .lado-esquerdo {
