@@ -10,3 +10,16 @@ body {
 table, th, td {
   border: 1px solid black
 }
+
+.lado-esquerdo {
+  display: inline-block;
+  float: left;
+  width: 47%;
+}
+
+.lado-direito {
+  display: inline-block;
+  float: right;
+  width: 48%;
+  margin-bottom: 80px;
+}
