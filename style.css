@@ -5,10 +5,13 @@ body {
 #cabecalho {
   position: fixed;
   top: 0%;
+  border-bottom: 4px solid gray;
+  background-color: rgb(116, 189, 189);
 }
 
-table, th, td {
-  border: 1px solid black
+#minha_foto {
+  padding: 170px;
+  padding-left: 60px;
 }
 
 .lado-esquerdo {
@@ -22,4 +25,8 @@ table, th, td {
   float: right;
   width: 48%;
   margin-bottom: 80px;
+}
+
+table , th , td {
+  border: 1px solid black;
 }
